@@ -1,1 +1,1 @@
-# stock-recommendation
+# News Sentiment Analysis Application
